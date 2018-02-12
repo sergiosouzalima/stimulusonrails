@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/master/assets/logo.svg?sanitize=true"
-width="24" height="24" alt="Stimulus"> Ruby On Rails and Stimulus JS framework Application
+# <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/master/assets/logo.svg?sanitize=true" width="24" height="24" alt="Stimulus"> Ruby On Rails and Stimulus JS framework Application
 
 This application was created to demonstrate how to integrate Ruby On Rails & Stimulus, a JavaScript framework.
 
