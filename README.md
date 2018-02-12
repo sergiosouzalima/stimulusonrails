@@ -15,7 +15,7 @@ $ rails db:migrate
 $ rails server
 ```
 
-run this app, entering the following address in your browser address bar:
+To run this app, enter the following address in your browser address bar:
 
 ```
 http://0.0.0.0:3000
