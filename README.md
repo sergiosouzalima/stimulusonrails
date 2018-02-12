@@ -11,14 +11,14 @@ To clone and set up this project:
 ```
 $ git clone https://github.com/sergiosouzalima/stimulusonrails.git
 $ cd stimulusonrails
-$ yarn install
-$ yarn start
+$ rails db:migrate
+$ rails server
 ```
 
 run this app, entering the following address in your browser address bar:
 
 ```
-http://localhost:3000
+http://0.0.0.0:3000
 ```
 
 Your app should work like that:
