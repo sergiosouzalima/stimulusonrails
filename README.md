@@ -1,25 +1,32 @@
-# README
+# <img src="https://raw.githubusercontent.com/stimulusjs/stimulus/master/assets/logo.svg?sanitize=true" width="24" height="24" alt="Stimulus"> Stimulus Starter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project basead on a preconfigured blank slate for exploring [Stimulus](https://github.com/stimulusjs/stimulus). Jump to [The Stimulus Handbook](https://github.com/stimulusjs/stimulus/blob/master/handbook/README.md) for a quick introduction.
 
-Things you may want to cover:
+You can see here an online version of this app [stimulus-people-form-example.herokuapp.com](https://stimulus-people-form-example.herokuapp.com)
 
-* Ruby version
+---
 
-* System dependencies
+To clone and set up this project:
 
-* Configuration
+```
+$ git clone https://github.com/sergiosouzalima/stimulus-people-form-example.git
+$ cd stimulus-people-form-example
+$ yarn install
+$ yarn start
+```
 
-* Database creation
+Now, to run this app, enter the following address in your browser address bar:
 
-* Database initialization
+```
+http://localhost:9000
+```
 
-* How to run the test suite
+Your app should work like that:
 
-* Services (job queues, cache servers, search engines, etc.)
+![screen01.jpg](public/rails_stimulus_blog_post02.gif)
 
-* Deployment instructions
+---
 
-* ...
-# stimulusonrails
+© 2018 Basecamp, LLC.
+## StimulusJS
+
