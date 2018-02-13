@@ -4,7 +4,7 @@ This application was created to demonstrate how to integrate Ruby On Rails & Sti
 
 Jump to [The Stimulus Handbook](https://stimulusjs.org/handbook/introduction) for a quick introduction.
 
-You can see an online version of this app here [stimulusonrails.herokuapp.com](https://stimulus-people-form-example.herokuapp.com)
+You can see an online version of this app here [stimulusonrails.herokuapp.com](https://stimulusonrails.herokuapp.com)
 
 ---
 To clone and set up this project:
